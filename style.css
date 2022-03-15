@@ -1,0 +1,19 @@
+.arriere {
+  background: url(/images/country3.jpg) center/cover no-repeat;
+  height: 100vh;
+}
+.bas {
+  margin-top: 20vh;
+}
+.end {
+  padding-top: 38%;
+}
+.colll {
+  padding: 0;
+}
+form {
+  padding-left: 10px;
+}
+.marge {
+  margin-bottom: 10px;
+}
